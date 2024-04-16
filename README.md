@@ -29,6 +29,5 @@ Before running the script, you'll need to ensure you have Python and all the nec
 #### pip install torch torchvision pillow matplotlib
 
 ## 4. Run the Script:
-Execute the main script by running:
-#### python segmentation_script.py
+Execute the main script by running the python coding file.
 
